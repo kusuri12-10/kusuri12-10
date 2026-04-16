@@ -1,0 +1,72 @@
+name: Update Dev Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch and update quote
+        run: |
+          python3 - <<'EOF'
+          import requests, random, re, os
+
+          quotes = [
+              ("Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "Martin Fowler"),
+              ("First, solve the problem. Then, write the code.", "John Johnson"),
+              ("Experience is the name everyone gives to their mistakes.", "Oscar Wilde"),
+              ("In order to be irreplaceable, one must always be different.", "Coco Chanel"),
+              ("Java is to JavaScript what car is to Carpet.", "Chris Heilmann"),
+              ("Knowledge is power.", "Francis Bacon"),
+              ("Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.", "Dan Salomon"),
+              ("Simplicity is the soul of efficiency.", "Austin Freeman"),
+              ("Before software can be reusable it first has to be usable.", "Ralph Johnson"),
+              ("Make it work, make it right, make it fast.", "Kent Beck"),
+              ("The best error message is the one that never shows up.", "Thomas Fuchs"),
+              ("Code is like humor. When you have to explain it, it's bad.", "Cory House"),
+              ("Fix the cause, not the symptom.", "Steve Maguire"),
+              ("Optimism is an occupational hazard of programming.", "Kent Beck"),
+              ("When to use iterative development? You should use iterative development only on projects that you want to succeed.", "Martin Fowler"),
+          ]
+
+          quote, author = random.choice(quotes)
+          block = f'<!-- QUOTE-START -->\n> *"{quote}"*\n>\n> — **{author}**\n<!-- QUOTE-END -->'
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- QUOTE-START -->.*?<!-- QUOTE-END -->",
+              block,
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Updated quote: {quote[:50]}...")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update daily dev quote"
+          git push
