@@ -73,3 +73,11 @@ val me = Developer(
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusuri12)
  
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kusuri12-09&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kusuri12-09"
+  width="600"
+  height="300"
+/>
+</a>
