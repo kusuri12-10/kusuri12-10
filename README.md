@@ -1,6 +1,9 @@
 ## 👋 Welcome, I'm kusuri12
  
 <!-- QUOTE-START -->
+> *"In order to be irreplaceable, one must always be different."*
+>
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=kusuri12-10&color=7F52FF&style=flat-square)
