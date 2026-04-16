@@ -1,4 +1,7 @@
 ## 👋 Welcome, I'm kusuri12
+ 
+<!-- QUOTE-START -->
+<!-- QUOTE-END -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=kusuri12-10&color=7F52FF&style=flat-square)
 
