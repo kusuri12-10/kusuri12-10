@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 >
-> — **Martin Fowler**
+> — **Cory House**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
