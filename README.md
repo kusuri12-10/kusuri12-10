@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Simplicity is the soul of efficiency."*
+> *"In order to be irreplaceable, one must always be different."*
 >
-> — **Austin Freeman**
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
