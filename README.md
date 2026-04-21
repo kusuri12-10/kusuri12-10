@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Optimism is an occupational hazard of programming."*
 >
-> — **Coco Chanel**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
