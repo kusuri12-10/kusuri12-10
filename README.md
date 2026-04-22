@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 >
-> — **Kent Beck**
+> — **Cory House**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
