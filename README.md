@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Java is to JavaScript what car is to Carpet."*
 >
-> — **Cory House**
+> — **Chris Heilmann**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
