@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Java is to JavaScript what car is to Carpet."*
+> *"Before software can be reusable it first has to be usable."*
 >
-> — **Chris Heilmann**
+> — **Ralph Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
