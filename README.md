@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"The best error message is the one that never shows up."*
+> *"Simplicity is the soul of efficiency."*
 >
-> — **Thomas Fuchs**
+> — **Austin Freeman**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
