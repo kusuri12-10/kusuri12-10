@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 >
-> — **Dan Salomon**
+> — **Martin Fowler**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
