@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
+> *"Knowledge is power."*
 >
-> — **Martin Fowler**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
