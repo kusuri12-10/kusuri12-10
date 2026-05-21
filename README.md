@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Simplicity is the soul of efficiency."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Austin Freeman**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
