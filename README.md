@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Make it work, make it right, make it fast."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 >
-> — **Kent Beck**
+> — **Cory House**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
