@@ -1,5 +1,5 @@
 <!-- QUOTE-START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
 >
 > — **Martin Fowler**
 <!-- QUOTE-END -->
