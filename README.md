@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Martin Fowler**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
