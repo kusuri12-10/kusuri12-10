@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Simplicity is the soul of efficiency."*
+> *"Java is to JavaScript what car is to Carpet."*
 >
-> — **Austin Freeman**
+> — **Chris Heilmann**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
