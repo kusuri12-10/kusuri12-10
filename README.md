@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Java is to JavaScript what car is to Carpet."*
+> *"Fix the cause, not the symptom."*
 >
-> — **Chris Heilmann**
+> — **Steve Maguire**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
