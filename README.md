@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> *"In order to be irreplaceable, one must always be different."*
 >
-> — **Dan Salomon**
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
