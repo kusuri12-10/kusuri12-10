@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Before software can be reusable it first has to be usable."*
+> *"In order to be irreplaceable, one must always be different."*
 >
-> — **Ralph Johnson**
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
