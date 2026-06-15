@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Make it work, make it right, make it fast."*
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
 >
-> — **Kent Beck**
+> — **Dan Salomon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
