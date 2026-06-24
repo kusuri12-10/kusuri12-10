@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **Martin Fowler**
+> — **John Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
