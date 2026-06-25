@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Optimism is an occupational hazard of programming."*
 >
-> — **John Johnson**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
