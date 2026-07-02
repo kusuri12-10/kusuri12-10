@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"The best error message is the one that never shows up."*
 >
-> — **Martin Fowler**
+> — **Thomas Fuchs**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
