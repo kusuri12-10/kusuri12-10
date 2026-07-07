@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Fix the cause, not the symptom."*
+> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
 >
-> — **Steve Maguire**
+> — **Martin Fowler**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
