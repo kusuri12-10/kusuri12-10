@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Knowledge is power."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Francis Bacon**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
