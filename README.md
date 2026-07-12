@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
+> *"The best error message is the one that never shows up."*
 >
-> — **Martin Fowler**
+> — **Thomas Fuchs**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
