@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"The best error message is the one that never shows up."*
+> *"In order to be irreplaceable, one must always be different."*
 >
-> — **Thomas Fuchs**
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
