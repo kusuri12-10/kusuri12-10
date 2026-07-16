@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 >
-> — **Dan Salomon**
+> — **Cory House**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
