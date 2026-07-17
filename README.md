@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Knowledge is power."*
 >
-> — **Cory House**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
