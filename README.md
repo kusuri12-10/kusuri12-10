@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
 >
-> — **Kent Beck**
+> — **Martin Fowler**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
