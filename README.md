@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Knowledge is power."*
+> *"Fix the cause, not the symptom."*
 >
-> — **Francis Bacon**
+> — **Steve Maguire**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
