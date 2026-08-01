@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"In order to be irreplaceable, one must always be different."*
 >
-> — **John Johnson**
+> — **Coco Chanel**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
