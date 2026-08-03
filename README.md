@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Java is to JavaScript what car is to Carpet."*
 >
-> — **John Johnson**
+> — **Chris Heilmann**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
