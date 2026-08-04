@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Java is to JavaScript what car is to Carpet."*
+> *"Experience is the name everyone gives to their mistakes."*
 >
-> — **Chris Heilmann**
+> — **Oscar Wilde**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
