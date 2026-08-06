@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Java is to JavaScript what car is to Carpet."*
+> *"Knowledge is power."*
 >
-> — **Chris Heilmann**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
