@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Experience is the name everyone gives to their mistakes."*
+> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
 >
-> — **Oscar Wilde**
+> — **Martin Fowler**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
