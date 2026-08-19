@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Before software can be reusable it first has to be usable."*
+> *"Simplicity is the soul of efficiency."*
 >
-> — **Ralph Johnson**
+> — **Austin Freeman**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
