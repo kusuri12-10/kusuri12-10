@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Knowledge is power."*
 >
-> — **John Johnson**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
