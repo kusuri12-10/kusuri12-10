@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Fix the cause, not the symptom."*
+> *"Optimism is an occupational hazard of programming."*
 >
-> — **Steve Maguire**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
