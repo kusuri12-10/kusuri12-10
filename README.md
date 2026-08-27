@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"The best error message is the one that never shows up."*
+> *"Before software can be reusable it first has to be usable."*
 >
-> — **Thomas Fuchs**
+> — **Ralph Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
