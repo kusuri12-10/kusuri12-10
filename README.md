@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Experience is the name everyone gives to their mistakes."*
+> *"The best error message is the one that never shows up."*
 >
-> — **Oscar Wilde**
+> — **Thomas Fuchs**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
