@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"The best error message is the one that never shows up."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Thomas Fuchs**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
