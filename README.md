@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Experience is the name everyone gives to their mistakes."*
 >
-> — **Coco Chanel**
+> — **Oscar Wilde**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
