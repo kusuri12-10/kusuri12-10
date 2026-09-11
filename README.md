@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"Simplicity is the soul of efficiency."*
 >
-> — **Martin Fowler**
+> — **Austin Freeman**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
