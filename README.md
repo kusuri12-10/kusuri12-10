@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"Before software can be reusable it first has to be usable."*
 >
-> — **Kent Beck**
+> — **Ralph Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
