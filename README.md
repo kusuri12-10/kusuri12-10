@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
 >
-> — **Kent Beck**
+> — **Dan Salomon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
