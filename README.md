@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Coco Chanel**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
