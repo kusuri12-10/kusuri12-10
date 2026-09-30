@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"The best error message is the one that never shows up."*
+> *"Optimism is an occupational hazard of programming."*
 >
-> — **Thomas Fuchs**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
