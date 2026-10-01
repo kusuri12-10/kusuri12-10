@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"Java is to JavaScript what car is to Carpet."*
 >
-> — **Kent Beck**
+> — **Chris Heilmann**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
