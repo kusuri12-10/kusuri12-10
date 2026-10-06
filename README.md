@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Knowledge is power."*
 >
-> — **Coco Chanel**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
