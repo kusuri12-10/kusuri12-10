@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"The best error message is the one that never shows up."*
 >
-> — **Cory House**
+> — **Thomas Fuchs**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
