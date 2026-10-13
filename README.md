@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Fix the cause, not the symptom."*
+> *"Experience is the name everyone gives to their mistakes."*
 >
-> — **Steve Maguire**
+> — **Oscar Wilde**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
