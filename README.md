@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Experience is the name everyone gives to their mistakes."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **Oscar Wilde**
+> — **John Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
