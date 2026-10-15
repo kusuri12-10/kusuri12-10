@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Fix the cause, not the symptom."*
 >
-> — **John Johnson**
+> — **Steve Maguire**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
