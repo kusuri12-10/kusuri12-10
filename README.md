@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Knowledge is power."*
+> *"Before software can be reusable it first has to be usable."*
 >
-> — **Francis Bacon**
+> — **Ralph Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
