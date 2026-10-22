@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Before software can be reusable it first has to be usable."*
+> *"Experience is the name everyone gives to their mistakes."*
 >
-> — **Ralph Johnson**
+> — **Oscar Wilde**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
