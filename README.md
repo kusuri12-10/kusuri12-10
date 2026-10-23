@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Experience is the name everyone gives to their mistakes."*
+> *"Simplicity is the soul of efficiency."*
 >
-> — **Oscar Wilde**
+> — **Austin Freeman**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
