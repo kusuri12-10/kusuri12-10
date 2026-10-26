@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
 >
-> — **John Johnson**
+> — **Dan Salomon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
