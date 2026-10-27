@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> *"When to use iterative development? You should use iterative development only on projects that you want to succeed."*
 >
-> — **Dan Salomon**
+> — **Martin Fowler**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
