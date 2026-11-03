@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Fix the cause, not the symptom."*
 >
-> — **Coco Chanel**
+> — **Steve Maguire**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
