@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Optimism is an occupational hazard of programming."*
+> *"Knowledge is power."*
 >
-> — **Kent Beck**
+> — **Francis Bacon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
