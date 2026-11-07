@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Before software can be reusable it first has to be usable."*
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
 >
-> — **Ralph Johnson**
+> — **Dan Salomon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
