@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Experience is the name everyone gives to their mistakes."*
+> *"Make it work, make it right, make it fast."*
 >
-> — **Oscar Wilde**
+> — **Kent Beck**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
