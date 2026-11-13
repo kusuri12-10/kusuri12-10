@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Before software can be reusable it first has to be usable."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **Ralph Johnson**
+> — **John Johnson**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
