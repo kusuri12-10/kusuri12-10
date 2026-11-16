@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"Fix the cause, not the symptom."*
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
 >
-> — **Steve Maguire**
+> — **Dan Salomon**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
