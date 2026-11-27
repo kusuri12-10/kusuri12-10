@@ -1,7 +1,7 @@
 <!-- QUOTE-START -->
-> *"In order to be irreplaceable, one must always be different."*
+> *"Java is to JavaScript what car is to Carpet."*
 >
-> — **Coco Chanel**
+> — **Chris Heilmann**
 <!-- QUOTE-END -->
 
 ## 👋 Welcome, I'm kusuri12
